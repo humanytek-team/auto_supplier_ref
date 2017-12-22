@@ -4,7 +4,7 @@
 
 {
     'name': 'Internal References for Suppliers',
-    'version': '9.0.0.1.0',
+    'version': '9.0.1.0.0',
     'category': 'Purchase',
     'author': 'Humanytek',
     'website': "http://www.humanytek.com",
